@@ -1,0 +1,6 @@
+USAGE:
+    python3 client.py (ipServidor) PORT (ipCliente)
+
+
+    PORT servidor = Port Client = 9999
+
